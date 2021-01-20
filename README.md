@@ -21,10 +21,11 @@ Your users should be able to:
 
 "Shortly URL shortening API Challenge" project has been achieved by HTML5, CSS3 and Vanilla JS with Bootstrap for the menu.
 Some functionalities has been added to the project:
-= regex checking for a valid URL address;
-= after error message appeared - it dissapears after 2 seconds;
-= after button "shorten it" is pressed - the text in the "input" dissapears in 3 seconds;
-= when button "copy" is pressed, the result bar dissapears in 5 seconds;
+
+- regex checking for a valid URL address;
+- after error message appeared - it dissapears after 2 seconds;
+- after button "shorten it" is pressed - the text in the "input" dissapears in 3 seconds;
+- when button "copy" is pressed, the result bar dissapears in 5 seconds;
 
 ## Here are some previews of the final page
 
